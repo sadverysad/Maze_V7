@@ -1,4 +1,5 @@
 # Maze V7
+## Some modification for my PC
 ![Снимок](https://i.ibb.co/93TrJq0/image.png)
 
 ![Снимок](https://i.ibb.co/0t1dkk4/image.png)
